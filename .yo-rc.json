@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.17.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.4",
+    "libraryName": "anniversary-web-part",
+    "libraryId": "73d673ff-a6b7-43d2-878a-0d3d7ed5918c",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "anniversary-web-part",
+    "solutionShortDescription": "anniversary-web-part description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
